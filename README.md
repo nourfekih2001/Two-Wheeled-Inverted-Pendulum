@@ -21,7 +21,7 @@ Below is a a bloc diagram detailing the overall fuction of the regulator :
 
 We implemented the same regulator in LabView in order to visualise in real-time the variation of the error in the system , we also created a LabvView graphical interface for better visualization.
 
-![video](https://github.com/nourfekih2001/Two-Wheeled-Inverted-Pendulum/assets/123183769/53a18b18-53e7-4878-8176-a04444465e99)
+![video](https://github.com/nourfekih2001/Two-Wheeled-Inverted-Pendulum/assets/123183769/53a18b18-53e7-4878-8176-a04444465e99)](https://private-user-images.githubusercontent.com/129344878/324991586-9a606a80-0385-478b-ac78-10a356bd0bc7.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ0OTM2MTUsIm5iZiI6MTcxNDQ5MzMxNSwicGF0aCI6Ii8xMjkzNDQ4NzgvMzI0OTkxNTg2LTlhNjA2YTgwLTAzODUtNDc4Yi1hYzc4LTEwYTM1NmJkMGJjNy5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQzMFQxNjA4MzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05MjM2OTJkNDE0ZmU2YTZlYWEzZDYzMTllNGJkMTM5ZDMxY2ZlYTI0YmM5YmExZTgxNmVhMzM2OWFhMjRmYWYzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.EmhgsIM8GFV_4qAGlsLOFXjTKELqUmNar8yx8KzoUgM)
 
 The result : 
 
