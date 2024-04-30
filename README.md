@@ -21,11 +21,11 @@ Below is a a bloc diagram detailing the overall fuction of the regulator :
 
 We implemented the same regulator in LabView in order to visualise in real-time the variation of the error in the system , we also created a LabvView graphical interface for better visualization.
 
-![image](https://github.com/nourfekih2001/Two-Wheeled-Inverted-Pendulum/assets/123183769/53a18b18-53e7-4878-8176-a04444465e99)
+![video](https://github.com/nourfekih2001/Two-Wheeled-Inverted-Pendulum/assets/123183769/53a18b18-53e7-4878-8176-a04444465e99)
 
 The result : 
 
-![image](https://github.com/nourfekih2001/Two-Wheeled-Inverted-Pendulum/assets/123183769/b44b7005-b8a6-4875-8499-c22cb4ccc950)
+![video](https://github.com/nourfekih2001/Two-Wheeled-Inverted-Pendulum/assets/123183769/b44b7005-b8a6-4875-8499-c22cb4ccc950)
 
 
 
